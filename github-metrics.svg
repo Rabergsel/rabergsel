@@ -1541,7 +1541,7 @@ Added DC link</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.38m out of 126m users</span>
+                                    <span class="gh">ranked 8.38m out of 120m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -2377,7 +2377,7 @@ Added call to make issues and feature requests
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2023, 23:13:35 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2023, 00:14:18 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
