@@ -9,6 +9,8 @@
 
 ###
 
+Welcome to my GitHub page. Nice to see you here. I am a mechatronic student from Austria who is completly into coding and algorithms. You can see my best projects here.
+
 <br clear="both">
 
 <div align="center">
