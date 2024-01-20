@@ -62,6 +62,5 @@ But I also learnt TypeScript due to some other projects, Scala because I wanted 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rabergsel/Rabergsel/output/snake.svg" alt="Snake animation" />
 
 ###
