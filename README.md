@@ -9,7 +9,7 @@
 
 ###
 
-Welcome to my GitHub page. Nice to see you here. I am a mechatronic student from Austria who is completly into coding and algorithms. You can see my best projects here. Even though I never had a informatical education, I learnt a lot of stuff myself. My favorite programming language always has been and probably will be C#, as it is soooo easy.
+Welcome to my GitHub page. Nice to see you here. I am a mechatronic student from Austria who is completly into coding and algorithms. You can see my best projects here. Even though I never had an informatical education, I learnt a lot of stuff myself. My favorite programming language always has been and probably will be C#, as it is soooo easy.
 
 But I also learnt TypeScript due to some other projects, Scala because I wanted to understand the code of my favorite Chess website lichess.org, and MATLAB because it is a crazy tool.
 
