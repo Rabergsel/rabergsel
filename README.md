@@ -3,10 +3,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical College Student and Hobby Developer
  --------------------------------------------- 
 
-I am Raberger Raphael, a student of technical high school Wels, Austria. I have several repositories on GitHub, where I mainly work with C#, TypeScript, HTML, and more. My most popular repository is the Twitch Chat Bot I actively develop. My interests are web development, artificial intelligence, and chess. You can follow me on GitHub to see my latest projects and updates. 
-* 🌍 I'm based in Upper Austria 
-* 🤝 I'm open to collaborating on interesing projects about chess, AI and community management 
-* ⚡ I am a cat.
+# Hi there! 👋
+
+I'm Raphael Matthias Raberger, a technical college student from Upper Austria. My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for **C#**.
+
+## About Me
+- 🚭 I'm on a mission to make coding easier for everyone.
+- 🌱 Currently learning and experimenting with **AI**.
+- 📚 My hobbies include coding, reading, firefighting (yes, you read that right!), and indulging in creative pursuits.
+- 😺 I'm a cat lover!
+
+## Projects
+- 🌟 I'm actively developing several projects, including:
+  - **Dynamical simulations of physical systems**
+  - **AI projects**
+  - **Twitch Bot**
+  - **Extensions for the DSharpPlus Library**
+
+Thanks for stopping by! Let's build cool things together! 🚀
+
 
 <a href="https://www.github.com/Rabergsel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Rabergsel?logo=github&style=for-the-badge&color=a855f7&labelColor=831843" /></a>
 <a href="https://www.x.com/RabergerRaphael" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RabergerRaphael?logo=twitter&style=for-the-badge&color=a855f7&labelColor=831843" /></a>
