@@ -1,44 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raphael Matthias Raberger
- =================================================================================================================================================
-Technical College Student and Hobby Developer
- --------------------------------------------- 
+<h2 align="left">Hi 👋! My name is Raphel and I'm a no-live person</h2>
 
-# Hi there! 👋
+###
 
-I'm Raphael Matthias Raberger, a technical college student from Upper Austria. My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for **C#**.
+<p align="left">I'm Raphael Matthias Raberger, a technical college student from Upper Austria. My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for C#.<br><br>
+### About Me<br>🚭 I'm on a mission to make coding easier for everyone.<br>🌱 Currently learning and experimenting with AI.<br>📚 My hobbies include coding, reading, firefighting (yes, you read that right!), and indulging in creative pursuits.<br>😺 I'm a cat lover!<br><br>
+### Projects<br>🌟 I'm actively developing several projects, including:<br>Dynamical simulations of physical systems<br>AI projects<br>Twitch Bot<br>Extensions for the DSharpPlus Library<br><br>Thanks for stopping by! Let's build cool things together! 🚀</p>
 
-## About Me
-- 🚭 I'm on a mission to make coding easier for everyone.
-- 🌱 Currently learning and experimenting with **AI**.
-- 📚 My hobbies include coding, reading, firefighting (yes, you read that right!), and indulging in creative pursuits.
-- 😺 I'm a cat lover!
+###
 
-## Projects
-- 🌟 I'm actively developing several projects, including:
-  - **Dynamical simulations of physical systems**
-  - **AI projects**
-  - **Twitch Bot**
-  - **Extensions for the DSharpPlus Library**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
-Thanks for stopping by! Let's build cool things together! 🚀
+###
 
+<div align="left">
+  <a href="discord.com/invite/NJzuxZQahy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/RabergerRaphael" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter%20(X)&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/Rabergsel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+</div>
 
-<a href="https://www.github.com/Rabergsel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Rabergsel?logo=github&style=for-the-badge&color=a855f7&labelColor=831843" /></a>
-<a href="https://www.x.com/RabergerRaphael" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RabergerRaphael?logo=twitter&style=for-the-badge&color=a855f7&labelColor=831843" /></a>
-### Skills <p align="left"> 
+###
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a> </p> ### Socials <p align="left"> <a href="https://www.github.com/Rabergsel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<br clear="both">
 
-<a href="https://www.x.com/RabergerRaphael" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/Rabergsel"><img src="https://github-readme-stats.vercel.app/api?username=Rabergsel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=831843&hide_border=true&show_icons=true" alt="Rabergsel's GitHub stats" /></a>
+<img align="left" src="https://profile-counter.glitch.me/Rabergsel/count.svg?"  />
 
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/Rabergsel/catzbottwitch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rabergsel&repo=catzbottwitch&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Rabergsel/fireportal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rabergsel&repo=fireportal&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=831843&hide_border=true&locale=en" /></a><a href="https://github.com/Rabergsel/lila" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rabergsel&repo=lila&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=831843&hide_border=true&locale=en" /></a></div>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabergsel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabergsel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rabergsel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-
-### Support Me
-<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/raphaelraberger"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
+###
