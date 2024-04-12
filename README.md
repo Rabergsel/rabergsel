@@ -2,9 +2,19 @@
 
 ###
 
-<p align="left">I'm Raphael Matthias Raberger, a technical college student from Upper Austria. My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for C#.<br><br>
-### About Me<br>🚭 I'm on a mission to make coding easier for everyone.<br>🌱 Currently learning and experimenting with AI.<br>📚 My hobbies include coding, reading, firefighting (yes, you read that right!), and indulging in creative pursuits.<br>😺 I'm a cat lover!<br><br>
-### Projects<br>🌟 I'm actively developing several projects, including:<br>Dynamical simulations of physical systems<br>AI projects<br>Twitch Bot<br>Extensions for the DSharpPlus Library<br><br>Thanks for stopping by! Let's build cool things together! 🚀</p>
+I'm Raphael Matthias Raberger, a technical college student from Upper Austria. My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for C#.<br><br>
+### About Me
+🚭 I'm on a mission to make coding easier for everyone.<br>🌱 Currently learning and experimenting with AI.<br>📚 My hobbies include coding, reading, firefighting (yes, you read that right!), and indulging in creative pursuits.<br>😺 I'm a cat lover!<br><br>
+### Projects
+  
+  🌟 I'm actively developing several projects, including:<br>
+  - Dynamical simulations of physical systems
+  - AI projects
+  - Twitch Bot
+  - Extensions for the DSharpPlus Library
+
+<br>
+  Thanks for stopping by! Let's build cool things together! 🚀
 
 ###
 
