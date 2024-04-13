@@ -2,7 +2,9 @@
 
 ###
 
-I'm Raphael Matthias Raberger, a technical college student from Upper Austria. My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for C#.<br><br>
+I'm Raphael Matthias Raberger, a technical college student from... wait, I cannot say that anymore. I am not a student anymore. My whole life was a lie, the school leaving exams will arrive eventually. I have graduated. What is this?... 
+
+My journey into the world of programming began at the tender age of 9 when I dabbled in VBA within Microsoft Access. Since then, I've been on a relentless pursuit to unravel the magic of code, with a special affinity for C#.<br><br>
 ### About Me
 🚭 I'm on a mission to make coding easier for everyone.<br>🌱 Currently learning and experimenting with AI.<br>📚 My hobbies include coding, reading, firefighting (yes, you read that right!), and indulging in creative pursuits.<br>😺 I'm a cat lover!<br><br>
 
