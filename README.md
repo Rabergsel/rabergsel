@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, Scala**
 
-- 👯 I’m looking to collaborate on [COSIG](https://github.com/Rabergsel/COSIG)
+- 👯 I’m looking to collaborate on [LichessNET](https://github.com/Rabergsel/LichessNET)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rabergsel?tab=repositories](https://github.com/Rabergsel?tab=repositories)
 
